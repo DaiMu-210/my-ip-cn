@@ -1,0 +1,27 @@
+{
+  "name": "my-ip-cn",
+  "version": "1.0.0",
+  "description": "针对中国大陆优化的公网 IP 获取库，长期维护",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ip",
+    "baidu",
+    "public-ip",
+    "ip-address",
+    "china",
+    "ipip",
+    "cn",
+    "公网IP"
+  ],
+  "author": "DaiMu-210",
+  "license": "MIT",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "ip": "^2.0.1",
+    "jest": "^29.7.0",
+    "npm": "^11.3.0"
+  }
+}
