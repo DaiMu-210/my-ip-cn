@@ -1,6 +1,6 @@
 const { PublicIP } = require('../');
 
-// 自动使用所有可用的提供者
+// 自动使用所有可用的提倡者
 async function getMyIP() {
   try {
     const ip = await PublicIP.get();
